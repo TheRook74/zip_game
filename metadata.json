@@ -1,0 +1,5 @@
+{
+  "name": "Zip Puzzle Game",
+  "description": "A challenging grid-based puzzle game where you must find a path covering every cell exactly once, following numbered checkpoints in order.",
+  "requestFramePermissions": []
+}
